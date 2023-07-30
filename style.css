@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+.pg1{
+    background-image: url(img/bg1-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: center;
+    height: 100%;
+}
+.navbar {
+    background-color: transparent;
+  }
+  .navbar-nav .nav-link {
+    color: white;
+  }
+.navbar-nav .nav-link:hover {
+    color: orange !important;
+}
+.fa-bars{
+  color: white;
+}
+
+.pizza{
+  margin-top: -85%;
+}
+.leaves{
+  margin-top: -50%;
+}
+#contact .link a{
+  text-decoration: none;
+}
+#contact .social a{
+  color: black ;
+  font-size: 30px;
+}
